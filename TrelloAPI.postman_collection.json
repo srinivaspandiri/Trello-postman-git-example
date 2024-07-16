@@ -654,31 +654,31 @@
 		},
 		{
 			"key": "TrelloKey",
-			"value": "c4dfda927981e0bdcd2b600add1df904"
+			"value": "your key"
 		},
 		{
 			"key": "TrelloToken",
-			"value": "ATTA0a3f5c075e0bc406f75f5d9a1d3d5e1d7091769e9e4ad833eb81f7ef7d379505C34CD54C"
+			"value": "your token"
 		},
 		{
 			"key": "BoardId",
-			"value": "668ebb85dc0404c140962b2e"
+			"value": "yourboard"
 		},
 		{
 			"key": "ToDoList",
-			"value": "668fbd7438b184d3020bf96c"
+			"value": "yourTODO list"
 		},
 		{
 			"key": "DoneList",
-			"value": "668fbd741bc1023e9d42995d"
+			"value": "your Done list"
 		},
 		{
 			"key": "CardId",
-			"value": "668fbd752c2c182a37d65ee2"
+			"value": "your card id"
 		},
 		{
 			"key": "boardNumber",
-			"value": 5
+			"value": "your borard number"
 		},
 		{
 			"key": "deleteBoardRequestid",
